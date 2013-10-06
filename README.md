@@ -27,3 +27,6 @@ check out the datasheet of your PIC to find out what value to use for ADCS2, ADC
 </p>
 </body>
 </html>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/magkopian/pic-binary-voltometer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
