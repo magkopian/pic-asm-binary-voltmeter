@@ -7,7 +7,7 @@
 
 <h3>Description:</h3>
 <p>
-This is a very simple 8-bit binary voltometer. It is just a very simple way to test the ADC module of your PIC, by using just 8 LEDs instead of 10.
+This is a very simple 8-bit binary voltmeter. It is just a very simple way to test the ADC module of your PIC, by using just 8 LEDs instead of 10.
 </p>
 
 
@@ -27,6 +27,3 @@ check out the datasheet of your PIC to find out what value to use for ADCS2, ADC
 </p>
 </body>
 </html>
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/magkopian/pic-binary-voltometer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
